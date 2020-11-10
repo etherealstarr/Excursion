@@ -1,1 +1,40 @@
-/* stylesheet for excursion project */
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.title {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 35px;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.info {
+    font-family: verdana;
+    font-weight: 300;
+    
+}
+
+.info h2 {
+    font-size: 32;
+}
+
+.info h3{
+    color: gray;
+    font-size: 21;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
+
+.icon_image {
+    margin-top: 15px;
+}
